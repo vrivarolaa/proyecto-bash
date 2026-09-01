@@ -1,0 +1,16 @@
+122332 Juan Lopez jlopez@fi.uba.ar 8
+100998 Pedro Valdéz pvaldez@fi.uba.ar 5
+89032 Carla Simone csimone@fi.uba.ar 7
+77542 Franco Lomba flomba@fi.uba.ar 10
+100223 Juana Pola jpola@fi.uba.ar 4
+122435 Lucia Fernandez lfernandez@fi.uba.ar 9
+135724 Ana Martinez amartinez@fi.uba.ar 6
+98765 Roberto Sanchez rsanchez@fi.uba.ar 9
+112233 Maria Gonzalez mgonzalez@fi.uba.ar 8
+45678 Diego Fernandez dfernandez@fi.uba.ar 3
+99887 Laura Perez lperez@fi.uba.ar 10
+54321 Nicolas Romero nromero@fi.uba.ar 7
+87654 Sofia Torres storres@fi.uba.ar 5
+223344 Martin Garcia mgarcia@fi.uba.ar 4
+76543 Valentina Castro vcastro@fi.uba.ar 9
+334455 Pablo Ruiz pruiz@fi.uba.ar 2
